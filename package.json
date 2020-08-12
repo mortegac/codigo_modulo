@@ -1,0 +1,7 @@
+{
+  "name": "codigo_modulo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Manuel Ortega Carcamo <mortega@apgca.cl>",
+  "license": "MIT"
+}
